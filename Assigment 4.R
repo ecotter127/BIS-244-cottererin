@@ -18,4 +18,3 @@ p + geom_point() +
        y= "Popularity Score",
        title = "Top 10,000 Most Popular Movies") + 
   scale_y_continuous(labels = scientific)
-
